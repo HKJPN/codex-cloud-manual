@@ -9,6 +9,7 @@
 ## 📖 マニュアルを読む
 
 * **[新Codex Cloud実践マニュアル（日本語版）](./codex-cloud-manual-ja.md)**
+* **[Read the English playbook](./codex-cloud-manual-en.md)** 
 
 ## 主な内容
 1. Codex Cloud をどのように使い分けるか
