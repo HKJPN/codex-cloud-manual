@@ -1,28 +1,27 @@
-2026年9月刷新版「新Codex Cloud」実践マニュアル（日本語）
-# 新Codex Cloud実践マニュアル [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+# The Codex Cloud Playbook
 
-**AIによる文書作成・コード作成・共同作業（2026年11月17日版）**
+Take a small change from a GitHub repository to a draft pull request (PR) that a teammate can review without reading your chat. This hands-on guide walks through the work in a browser, from setting up a reusable Codex Cloud environment to showing a reviewer exactly what to try.
 
-2026年9月に刷新された **新Codex Cloud** を活用し、ローカル環境構築なしでGitHubリポジトリを起点とした調査・実装・テスト・プルリクエスト（PR）作成・共同文書保守を行うための実践ガイドです。旧Codex Cloudに比べ新しい用語や定義が増え、導入時点でつまづきやすい点があり、本マニュアルの作成に至りました。
+**[Read the English playbook](./codex-cloud-manual-en.md)** · [日本語版マニュアル](./codex-cloud-manual-ja.md)
 
-## 📖 マニュアルを読む
+## Try it in your own repository
 
-* **[新Codex Cloud実践マニュアル（日本語版）](./codex-cloud-manual-ja.md)**
+The main exercise starts with a writer using a Markdown editor. They open a preview, return to the document, and want to keep typing where they left off. A test can pass because the preview opened, even if the next keystroke lands in the wrong place. You’ll use that distinction to write a better task for Codex, inspect the diff, and give your reviewer a keyboard check they can reproduce.
 
-## 主な内容
-1. Codex Cloud をどのように使い分けるか
-2. 特有の用語について理解する
-3. GitHubリポジトリからCloud環境を作成する
-4. 環境をPublishして再利用する
-5. Codexにソースコードや文書の作成・変更を依頼する
-6. 差分（diff）とテスト結果を確認する
-7. PRを作成し、GitHubでレビュー・マージする
-8. 日本語・英語のマニュアル文書を更新する（`AGENTS.md` の活用）
-9. 別端末から同じタスクを再開する
-10. 環境設定を変更してRepublishする
+Choose an exercise that fits your project. You’ll need Codex Cloud access and a GitHub repository or fork where you can open a PR.
 
-## ライセンス / License
+- **For an application**, work through the preview shortcut, check the behavior, and update the English and Japanese manual entries in the same PR.
+- **For a documentation project**, add one usable example to a README and ask a colleague to follow it.
+- **For a class or workshop**, work in pairs. One person prepares the draft PR. The other opens only the PR link and explains what changed, what was tested, and what still needs checking.
 
-本ドキュメントは [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) のもとで公開されています。適切なクレジット、特に著作者名（hkjpn）・タイトル・ライセンスへのリンク・改変の有無を表示すれば、商用・非商用を問わず自由に共有・翻案いただけます。
+## What you can reuse
 
-> **免責事項**: 本書はOpenAI公式資料をもとに整理した独立制作の非公式学習・演習ガイドです。最新のUIや利用権限についてはOpenAI公式ドキュメントをご確認ください。
+The English playbook includes a task prompt you can adapt, a worksheet for matching each requirement to evidence, and a short `AGENTS.md` example for teams maintaining multilingual docs. The field reference covers returning to a task from another device and deciding when to republish an environment.
+
+## About this guide
+
+Written by **hkjpn** as an independent learning resource. For current product behavior and access requirements, see the [official Codex Cloud documentation](https://learn.chatgpt.com/docs/cloud).
+
+## License
+
+You may share and adapt this guide, including for commercial use. When reusing it, credit **hkjpn**, include the guide title and a link to the license, and indicate any changes. [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
