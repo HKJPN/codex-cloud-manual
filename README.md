@@ -23,6 +23,6 @@
 
 ## ライセンス / License
 
-本ドキュメントは [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) のもとで公開されています。適切なクレジット（著作者名・タイトル・ライセンスへのリンク・改変の有無）を表示すれば、商用・非商用を問わず自由に共有・翻案いただけます。
+本ドキュメントは [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) のもとで公開されています。適切なクレジット、特に著作者名（hkjpn）・タイトル・ライセンスへのリンク・改変の有無を表示すれば、商用・非商用を問わず自由に共有・翻案いただけます。
 
 > **免責事項**: 本書はOpenAI公式資料をもとに整理した独立制作の非公式学習・演習ガイドです。最新のUIや利用権限についてはOpenAI公式ドキュメントをご確認ください。
