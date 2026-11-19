@@ -1,3 +1,4 @@
+**言語選択:**  [🇺🇸 English](README.md) 又は　[🇯🇵 日本語](README-ja.md) <br>
 2026年9月刷新版「新Codex Cloud」実践マニュアル（日本語）
 # 新Codex Cloud実践マニュアル [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
