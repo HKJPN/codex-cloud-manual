@@ -1,4 +1,4 @@
-**Languages:**  [🇯🇵 日本語](README-ja.md) or [🇺🇸 English](README.md) <br>
+**Languages:**  [🇯🇵 日本語](README-ja .md) or [🇺🇸 English](README.md) <br>
 # The Codex Cloud Playbook[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Take a small change from a GitHub repository to a draft pull request (PR) that a teammate can review without reading your chat. This hands-on guide walks through the work in a browser, from setting up a reusable Codex Cloud environment to showing a reviewer exactly what to try.
