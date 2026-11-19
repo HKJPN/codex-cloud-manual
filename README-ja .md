@@ -1,5 +1,5 @@
 **言語選択:**  [🇺🇸 English](README.md) 又は　[🇯🇵 日本語](README-ja.md) <br>
-2026年9月刷新版「新Codex Cloud」実践マニュアル（日本語）
+2026年9月刷新版「新Codex Cloud」実践マニュアル
 # 新Codex Cloud実践マニュアル [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 **AIによる文書作成・コード作成・共同作業（2026年11月17日版）**
@@ -11,7 +11,7 @@
 * **[新Codex Cloud実践マニュアル（日本語版）](./codex-cloud-manual-ja.md)**
 * **[Read the English playbook](./codex-cloud-manual-en.md)** 
 
-## 主な内容
+## 主な内容（日本語版）
 1. Codex Cloud をどのように使い分けるか
 2. 特有の用語について理解する
 3. GitHubリポジトリからCloud環境を作成する
