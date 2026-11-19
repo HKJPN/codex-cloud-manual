@@ -10,7 +10,7 @@
 * **[新Codex Cloud実践マニュアル（日本語版）](./codex-cloud-manual-ja.md)**
 
 ## 主な内容
-1. Codex cloud をどのように使い分けるか
+1. Codex Cloud をどのように使い分けるか
 2. 特有の用語について理解する
 3. GitHubリポジトリからCloud環境を作成する
 4. 環境をPublishして再利用する
